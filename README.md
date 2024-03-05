@@ -5,6 +5,9 @@ https://forums.civfanatics.com/resources/saphs-orbis-terrarum-redux-tsl.30064/
 
 It has been cropped to Large Hex in Unciv, losing about 15-16 tiles from every side.  This means you can't play with world wrap, and you can't sail around the world.  Effectively this is an inland sea map.  I've gone through and added many True Start Locations and a few Approximates.
 
+OrbisTerrarumUnciv: Map adapted to Unciv civilizations (Babylon instead of Sumeria, No Macedonia, etc)
+OrbisTerrarumUncivAC: Map with additional start locations for the addition Civilizations from the Ancient Civilizations Mod.
+
 Some Replayability tips:
 - Load in Map Editor
 - Go to Generate
